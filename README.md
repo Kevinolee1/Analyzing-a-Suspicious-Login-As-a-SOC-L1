@@ -7,4 +7,4 @@ Click on the suspicious login ticket.
 ![Image alt](https://github.com/Kevinolee1/Analyzing-a-Suspicious-Login-As-a-SOC-L1/blob/f72262bf65b711450f854f4d4c6f08797865c7af/Screenshot%202026-08-18%20011524.png)
 Type in the actions that the SOC L1 will be taken and the disposition. Next click post reply
 ![Image alt](https://github.com/Kevinolee1/Analyzing-a-Suspicious-Login-As-a-SOC-L1/blob/55e2f8f6c6f5bc3c1d01b0d929a47aeb26a6a1b9/Screenshot%202026-08-18%20012004.png)
-Click on Internal notes and type in your findings 
+Click on Internal notes and type in your findings. Next click post note
