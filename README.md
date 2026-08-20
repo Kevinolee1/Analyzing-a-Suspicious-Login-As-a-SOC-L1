@@ -9,4 +9,4 @@ Scroll down to the Post Reply section. Enter the actions taken by the SOC L1 ana
 ![Image alt](https://github.com/Kevinolee1/Analyzing-a-Suspicious-Login-As-a-SOC-L1/blob/55e2f8f6c6f5bc3c1d01b0d929a47aeb26a6a1b9/Screenshot%202026-08-18%20012004.png)
 Click Internal Notes, document your investigative findings and relevant observations, then select Post Note to save the entry to the ticket.
 ![Image alt](https://github.com/Kevinolee1/Analyzing-a-Suspicious-Login-As-a-SOC-L1/blob/8ae7debc5a23ad88c43221b64bb42cc1ee305b88/Screenshot%202026-08-18%20012031.png)
-Escalated the ticket to SOC Level 2 analyst Monea Lewis for further investigation and advanced analysis.
+Escalate the ticket to SOC Level 2 analyst Monea Lewis for further investigation and advanced analysis.
